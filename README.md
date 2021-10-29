@@ -1,2 +1,4 @@
 ![Metrics](https://metrics.lecoq.io/esyede)
-![snake gif](https://github.com/esyede/esyede/blob/output/github-contribution-grid-snake.svg)
+
+
+![***](https://raw.githubusercontent.com/esyede/esyede/output/github-contribution-grid-snake.svg)
