@@ -1,4 +1,9 @@
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=esyede&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&cache_seconds=7200" alt="Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esyede&layout=compact&theme=transparent&hide_border=true&cache_seconds=7200" /> |
-| ------------- | ------------- |
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
+  <picture><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esyede&theme=default"></picture>
+  <picture><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esyede&theme=default"></picture>
+  <picture><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=esyede&theme=default"></picture>
+  <picture><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=esyede&theme=default"></picture>
+  <picture><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esyede&theme=default&utcOffset=8"></picture>
+</div>
 
 ![***](https://raw.githubusercontent.com/esyede/esyede/output/github-contribution-grid-snake.svg)
